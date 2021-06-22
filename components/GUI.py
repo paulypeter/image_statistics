@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import ttk
 
-def create_window() -> tk.Tk():
+def create_window():
     main_window = tk.Tk()
     menubar = tk.Menu(main_window)
 
